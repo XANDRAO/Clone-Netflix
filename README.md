@@ -13,7 +13,7 @@
   </head>
   <body>
     <header class="header">
-      <img src="img/netflix.svg" alt="Netflix" draggable="false" />
+      <img src="https://user-images.githubusercontent.com/100946873/190888671-d0d1a6c1-3405-4bb7-ac9a-6e7e860e6ef8.svg" />
       <a href="#">Entrar</a>
     </header>
     <main class="main">
