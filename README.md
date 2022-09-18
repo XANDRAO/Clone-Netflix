@@ -42,10 +42,10 @@
             </p>
           </div>
           <div class="img-tv">
-            <img src="img/tv.png" alt="TV" />
+            <img src="https://user-images.githubusercontent.com/100946873/190888685-2091755e-2c21-46ba-9c06-f7a6a0750a67.png" alt="TV" />
             <video class="video-tv" autoplay playsinline muted loop>
               <source
-                src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-tv-0819.m4v"
+                src="https://user-images.githubusercontent.com/100946873/190888666-b7b69ff1-4b58-4cab-952a-1f54393bbb0a.jpg"
                 type="video/mp4"
               />
             </video>
@@ -63,7 +63,7 @@
             </p>
           </div>
           <div class="img-tv">
-            <img src="img/el.jpg" alt="El" />
+            <img src="https://user-images.githubusercontent.com/100946873/190888666-b7b69ff1-4b58-4cab-952a-1f54393bbb0a.jpg" alt="El" />
           </div>
         </div>
       </div>
@@ -79,10 +79,10 @@
             </p>
           </div>
           <div class="img-tv">
-            <img src="img/device-pile.png" alt="Device Pile" />
+            <img src="https://user-images.githubusercontent.com/100946873/190888660-b7d7406a-5b5b-49c2-b8e1-915d3089dea9.png" alt="Device Pile" />
             <video class="video-tv" autoplay playsinline muted loop>
               <source
-                src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-devices.m4v"
+                src="https://user-images.githubusercontent.com/100946873/190888685-2091755e-2c21-46ba-9c06-f7a6a0750a67.png"
                 type="video/mp4"
               />
             </video>
